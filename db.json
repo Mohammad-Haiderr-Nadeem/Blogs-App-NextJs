@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "First Blog",
+      "content": "Hi!! This is Ibrahim's first blog",
+      "author": "Ibrahim Tayyab",
+      "date": "December, 20 2023"
+    },
+    {
+      "id": "2",
+      "title": "Second Blog",
+      "content": "Hey there!! This is Asjad's first blog",
+      "author": "Asjad Naeem",
+      "date": "December, 10 2023"
+    },
+    {
+      "id": "3",
+      "title": "Third Blog",
+      "content": "Yoo!! This is Gohar's first blog",
+      "author": "Gohar Butt",
+      "date": "December, 12 2023"
+    }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
